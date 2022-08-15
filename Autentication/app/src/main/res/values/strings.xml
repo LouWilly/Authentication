@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Autenticador</string>
+    <string name="txtEmail">Email:</string>
+    <string name="txtPassword">Password:</string>
+    <string name="btnLogin">Login</string>
+    <string name="txtNoAccount">Não tem uma conta? Crie uma</string>
+    <string name="btnRegister">Registrar</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="sucess">Login feito com sucesso</string>
+</resources>
